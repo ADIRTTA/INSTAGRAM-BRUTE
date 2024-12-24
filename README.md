@@ -39,7 +39,7 @@ The purpose of your code is to:
    - Saves valid credentials or accounts needing verification to files (`good.txt` and `results_NeedVerify.txt`), ensuring results are not lost.
 
 5. **Customization:**
-   - You added a `loading_animation`, which improves the user experience by visually showing progress during each password attempt.
+   - I added a `loading_animation`, which improves the user experience by visually showing progress during each password attempt.
 
 ---
 
