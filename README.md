@@ -111,7 +111,6 @@ This script showcases your coding ability and understanding of HTTP requests, th
 - Password :-  `INSTA_BRUTE`
 
 # Use PASSWORD-LIST 🗝️
-*You can use it if you don't have PASS word list.*
+*You can use it if you don't have PASS word list. Message me on Telegram*
 
-+ PassList File Path (e.g., /storage/emulated/0/pass1.txt): Attack.txt
-
++ Telegram:- @adirtta_hack
