@@ -1,4 +1,4 @@
-#don't copy my script 🎃
+#don't copy my script 🎃©️
 
 
 import marshal
