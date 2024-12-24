@@ -104,7 +104,7 @@ This script showcases your coding ability and understanding of HTTP requests, th
 
 - python3 setup.py
 
-- python3 lnsta-brute.py
+- python3 Insta-brute.py
 
 # *Tool pass* ©️
 
