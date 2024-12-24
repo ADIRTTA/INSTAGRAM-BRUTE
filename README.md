@@ -96,9 +96,9 @@ This script showcases your coding ability and understanding of HTTP requests, th
 
 - pkg install nano
 
-- git clone https://github.com/ADIRTTA/Intagram-BRUTE-Forse.git
+- git clone https://github.com/ADIRTTA/INSTAGRAM-BRUTE.git
 
-- cd Instagram-BRUTE-Forse
+- cd INSTAGRAM-BRUTE
 
 - chmod +x *
 
