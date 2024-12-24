@@ -96,19 +96,19 @@ This script showcases your coding ability and understanding of HTTP requests, th
 
 - pkg install nano
 
-- git clone https://github.com/ADIRTTA/Intagram-BRUTE-forse.git
+- git clone https://github.com/ADIRTTA/Intagram-BRUTE-Forse.git
 
-- cd Instagram-BRUTE-brute
+- cd Instagram-BRUTE-Forse
 
 - chmod +x *
 
 - python3 setup.py
 
-- python3 insta-brute.py
+- python3 lnsta-brute.py
 
 # *Tool pass* ©️
 
-- Password :-  INSTA_BRUTE
+- Password :-  `INSTA_BRUTE`
 
 # Use PASSWORD-LIST 🗝️
 *You can use it if you don't have PASS word list.*
