@@ -86,25 +86,25 @@ This script showcases your coding ability and understanding of HTTP requests, th
 
 # command
 ```bash
-- pkg update
+ pkg update
 
-- pkg upgarde
+ pkg upgarde
 
-- pkg install git
+ pkg install git
 
-- pkg install python3
+ pkg install python3
 
-- pkg install nano
+ pkg install nano
 
-- git clone https://github.com/ADIRTTA/INSTAGRAM-BRUTE.git
+ git clone https://github.com/ADIRTTA/INSTAGRAM-BRUTE.git
 
-- cd INSTAGRAM-BRUTE
+ cd INSTAGRAM-BRUTE
 
-- chmod +x *
+ chmod +x *
 
-- python3 setup.py
+ python3 setup.py
 
-- python3 Insta-brute.py
+ python3 Insta-brute.py
 ```
 # *Tool pass* ©️
 
