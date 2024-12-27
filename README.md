@@ -85,7 +85,7 @@ This script showcases your coding ability and understanding of HTTP requests, th
 
 
 # command
-
+```bash
 - pkg update
 
 - pkg upgarde
@@ -105,7 +105,7 @@ This script showcases your coding ability and understanding of HTTP requests, th
 - python3 setup.py
 
 - python3 Insta-brute.py
-
+```
 # *Tool pass* ©️
 
 - Password :-  `INSTA_BRUTE`
