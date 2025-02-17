@@ -108,7 +108,7 @@ This script showcases your coding ability and understanding of HTTP requests, th
 ```
 # *Tool pass* ©️
 
-- Password :-  `INSTA_BRUTE`
+- Password :-  ` INSTA_BRUTE `
 
 # Use PASSWORD-LIST 🗝️
 *You can use it if you don't have PASS word list. Message me on Telegram*
